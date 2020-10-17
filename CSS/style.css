@@ -1,0 +1,49 @@
+header{
+    background-color: dimgray;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+table{
+    background-color: springgreen;
+    height: 80px;
+}
+.feature{
+    background-color: rgb(53, 153, 145);
+    height: 150px; 
+    width: 100%;
+    text-align: center;
+}
+aside{
+    overflow: hidden;
+}
+.clone{
+    background-color: khaki;
+    height: 180px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+.cltwo{
+    background-color: rgb(151, 141, 47);
+    height: 180px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+.clthree{
+    background-color: rgb(110, 100, 6);
+    height: 180px;
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+footer{
+    background-color: rgb(90, 86, 49);
+    height: 80px;
+    width: 100%;
+}
+footer h2{
+    text-align: center;
+    color: rgb(245, 233, 245);
+}
